@@ -22,3 +22,11 @@
 
 ## Version 1.0
 - Android release
+
+## Next Milestone
+
+- Build Activity Screen
+- Build Stats Screen
+- Connect live weather API
+- GPS walking tracker
+- AI Walking Coach
